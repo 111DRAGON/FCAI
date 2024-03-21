@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842796006174",
+    "project_id": "students-database-49778",
+    "storage_bucket": "students-database-49778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842796006174:android:5148d1278fb94bfc42e70f",
+        "android_client_info": {
+          "package_name": "com.example.fcai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842796006174-qscfu2vo1p4k307hpfn9d0q07l0an9b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARUSoiCyp2OsT9mza9KLpDNscwyrF1_3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842796006174-qscfu2vo1p4k307hpfn9d0q07l0an9b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
